@@ -1,0 +1,31 @@
+{
+    "calendarusers": [
+        {
+            "color":"red",
+            "details":"Go to BigC",
+            "start": "2022-08-08",
+            "end":"2022-08-09",
+            "name":"Go BigC"
+
+        },
+        {
+            "color":"primary",
+            "details":"Go to BigC",
+            "start": "2022-08-21",
+            "end":"2022-08-23",
+            "name":"Go BigA"
+
+        }
+    ],
+    "project":[
+      {
+        "projectName":"Project AAA",
+        "detail":"Client Organisation"
+      },
+      {
+        "projectName":"Project BBB",
+        "detail":"Client Organisation"
+      }
+    ]
+    
+  }
